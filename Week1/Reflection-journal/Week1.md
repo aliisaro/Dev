@@ -2,14 +2,26 @@
 
 # Week 1 Reflection
 
+### Peer assessment:
+
+Luka Tuononen: 3. It was easy to discuss with him and he seemed to be quite knowledgeable and helpful.
+
+Joonas Saksanen: 2. He participated in a call with us but mostly just listened to us talk and didn't actively try to talk with us.
+
+Me: 3. I initiated conversation and sort of took a "leading" role. I tried my best to go through the 
+
+NOTE: Only time we did group work was on Wednesday during the Scrum Lab activity. Otherwise we did activities independently. I thought we had to engage with each other only if we need help especially because a lot of the activities were pretty easy. So that's why I was confused.
+
+
 ### Challenges Faced:
-Even though I have used git before, it was a bit confusing because previously I've only used it in in PyCharm. I also had some difficulty Node especially because I forgot to watch the tutorial video. Lastly I'm quite introverted so on Wednesday it was a bit challenging to try to chat with my group.
+Even though I have used git before, it was a bit confusing because previously I've only used it in in PyCharm. I also had some difficulty understanding Node because I forgot to watch the tutorial video. Lastly I'm quite introverted so it was a bit challenging to try to chat with my group.
 
 ### What Went Well and Lessons Learned:
 
 #### Key learning: 
 
 -An important thing I learned is that it's good to learn how to use AI as a helping tool in development.
+-We need to do work together more in our group.
 
 #### Online Resources:
 
