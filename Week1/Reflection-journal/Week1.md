@@ -53,4 +53,4 @@ It took some time but I did manage to do all the activities and study in my spar
 ### Next Steps:
 I want to listen more actively during lecture because some times I tend to loose focus. I haven't fully understood everything yet so I want to study better in my spare time as well.
 
-Week 1: [21.1.2024]
+Week 2: [22.1.2024]
