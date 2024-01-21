@@ -8,7 +8,7 @@ Luka Tuononen: 3. It was easy to discuss with him and he seemed to be quite know
 
 Joonas Saksanen: 2. He participated in a call with us but mostly just listened to us talk and didn't actively try to talk with us.
 
-Me: 3. I initiated conversation and sort of took a "leading" role. I tried my best to go through the 
+Me: 3. I initiated conversation and sort of took a "leading" role. I tried my best to go through the materials with them.
 
 NOTE: Only time we did group work was on Wednesday during the Scrum Lab activity. Otherwise we did activities independently. I thought we had to engage with each other only if we need help especially because a lot of the activities were pretty easy. So that's why I was confused.
 
