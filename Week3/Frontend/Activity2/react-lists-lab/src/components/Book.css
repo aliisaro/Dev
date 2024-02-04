@@ -1,0 +1,17 @@
+.book {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.book-title {
+  font-size: 1.2rem;
+  margin: 0;
+  color: #333;
+}
+
+h1 {
+  margin-left: 10px;
+}

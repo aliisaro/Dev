@@ -1,0 +1,23 @@
+body {
+  margin: 10px;
+  font-family: sans-serif;
+}
+
+.App {
+  border: 7px double rgb(255, 162, 209);
+  border-radius: 5px;
+  width: 280px;
+  background-color: rgb(134, 201, 222);
+  color: rgb(237, 206, 222);
+  text-shadow: 1px 2px 2px rgb(255, 74, 164);
+  padding-top: 5px;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+li::marker {
+  color: pink;
+}
