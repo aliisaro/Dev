@@ -50,7 +50,7 @@ https://react.dev/learn/passing-props-to-a-component
 
 ### Final Thoughts:
 
-Doing the tasks in the competition especially improved my learning, so I'm glad that me and Joonas participated in it. We divided the tasks between us and it took a while but worked in the end.
+Doing the tasks in the competition especially improved my learning, so I'm glad that me and Joonas participated in it, although I did not do task 5 exactly how it was supposed to be done.
 
 ### Next Steps:
 
