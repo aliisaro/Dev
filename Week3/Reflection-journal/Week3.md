@@ -1,14 +1,12 @@
 ## Student name: Aliisa Rokala
 
-# Week 2 Reflection
+# Week 3 Reflection
 
 ### Peer assessment:
 
 Luka: -
 
 Joonas: 3 He participated in the group competition with me this friday.
-
-Me: 3 I put more effort this week, but can still do better.
 
 ### Challenges Faced:
 
@@ -54,6 +52,6 @@ Doing the tasks in the competition especially improved my learning, so I'm glad 
 
 ### Next Steps:
 
--Better team work and preparation before class.
+-Better team work.
 
 Week 4: [3.2.2024]

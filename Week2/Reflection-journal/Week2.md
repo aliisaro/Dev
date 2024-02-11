@@ -6,7 +6,6 @@
 
 Luka: --
 Joonas: --
-Me: 2 This week was a bit overwhelming to me. I could have put more effort in learning.
 
 ### Challenges Faced:
 

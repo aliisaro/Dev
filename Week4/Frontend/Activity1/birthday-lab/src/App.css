@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(248, 230, 247);
+  font-family: Helvetica, sans-serif;
+}
+
+.App {
+  width: 400px;
+  border-radius: 10px;
+  margin: 200px auto;
+  padding: 10px 30px 30px 30px;
+  background-color: white;
+  box-shadow: grey 2px 2px 5px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  font-size: 17px;
+  background-color: aquamarine;
+  color: white;
+}
+
+.birthday {
+  display: flex;
+  margin: 20px;
+}
+
+.item-info {
+  float: right;
+  margin-left: 20px;
+}
+
+img {
+  width: 160px;
+  border-radius: 10px;
+  float: left;
+}
